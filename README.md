@@ -1,4 +1,4 @@
-## Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um joguinho de space shooter super legal!
+## Esse é o repositório de Javascript, no há um joguinho de space shooter!
 ##
 Os requisitos são:
 HTML básico
